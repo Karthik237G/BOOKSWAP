@@ -1,4 +1,4 @@
-#BOOKSWAP
+BOOKSWAP
 
 It is a website where one can swap, sell, buy, and rent a book.
 
